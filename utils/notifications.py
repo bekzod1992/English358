@@ -2,14 +2,24 @@
 Admin notification utilities
 """
 
+import os
 from aiogram import Bot
-from typing import Optional
+from typing import Optional, List
 import logging
 
 logger = logging.getLogger(__name__)
 
-# Admin telegram IDs
-ADMIN_IDS = [498436763, 952807383]
+
+def get_admin_ids() -> List[int]:
+    """Get admin IDs from environment variable"""
+    admin_ids_str = os.getenv("ADMIN_IDS", "")
+    if not admin_ids_str:
+        return []
+    try:
+        return [int(id.strip()) for id in admin_ids_str.split(",") if id.strip()]
+    except ValueError:
+        logger.error("Invalid ADMIN_IDS format in environment")
+        return []
 
 
 async def notify_admin_new_user(
@@ -31,7 +41,8 @@ async def notify_admin_new_user(
 
 📅 <b>Vaqt:</b> Hozir
 """
-        for admin_id in ADMIN_IDS:
+        admin_ids = get_admin_ids()
+        for admin_id in admin_ids:
             try:
                 await bot.send_message(
                     chat_id=admin_id,
@@ -65,7 +76,8 @@ async def notify_admin_test_completed(
 📝 <b>Test:</b> {test_name}
 ✅ <b>Natija:</b> {correct}/{total} ({score:.1f}%)
 """
-        for admin_id in ADMIN_IDS:
+        admin_ids = get_admin_ids()
+        for admin_id in admin_ids:
             try:
                 await bot.send_message(
                     chat_id=admin_id,
