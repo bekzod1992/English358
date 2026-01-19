@@ -1,0 +1,264 @@
+{
+  "grades": {
+    "1": {
+      "alphabet": [
+        {"question": "Which letter comes after 'A'?", "options": {"A": "C", "B": "B", "C": "D", "D": "E"}, "correct": "B"},
+        {"question": "What letter is this? 🍎 = A____", "options": {"A": "Apple", "B": "Ant", "C": "Air", "D": "Art"}, "correct": "A"},
+        {"question": "Which is a vowel?", "options": {"A": "B", "B": "C", "C": "E", "D": "D"}, "correct": "C"},
+        {"question": "How many letters are in the English alphabet?", "options": {"A": "24", "B": "25", "C": "26", "D": "27"}, "correct": "C"},
+        {"question": "Which letter comes before 'D'?", "options": {"A": "E", "B": "C", "C": "B", "D": "A"}, "correct": "B"},
+        {"question": "What is the first letter of 'Ball'?", "options": {"A": "A", "B": "B", "C": "C", "D": "D"}, "correct": "B"},
+        {"question": "Which letter is NOT a vowel?", "options": {"A": "A", "B": "E", "C": "I", "D": "B"}, "correct": "D"},
+        {"question": "What comes after 'X'?", "options": {"A": "W", "B": "Y", "C": "Z", "D": "V"}, "correct": "B"}
+      ],
+      "numbers": [
+        {"question": "What is 'three' in number?", "options": {"A": "2", "B": "3", "C": "4", "D": "5"}, "correct": "B"},
+        {"question": "How do you write '7' in English?", "options": {"A": "six", "B": "eight", "C": "seven", "D": "five"}, "correct": "C"},
+        {"question": "2 + 3 = ?", "options": {"A": "four", "B": "five", "C": "six", "D": "three"}, "correct": "B"},
+        {"question": "What comes after 'nine'?", "options": {"A": "eight", "B": "eleven", "C": "ten", "D": "seven"}, "correct": "C"},
+        {"question": "How many fingers do you have?", "options": {"A": "eight", "B": "nine", "C": "ten", "D": "five"}, "correct": "C"},
+        {"question": "What is 5 + 5?", "options": {"A": "nine", "B": "ten", "C": "eleven", "D": "eight"}, "correct": "B"},
+        {"question": "How do you say '1' in English?", "options": {"A": "two", "B": "one", "C": "three", "D": "four"}, "correct": "B"},
+        {"question": "4 - 2 = ?", "options": {"A": "one", "B": "two", "C": "three", "D": "four"}, "correct": "B"}
+      ],
+      "colors": [
+        {"question": "What color is the sky?", "options": {"A": "red", "B": "green", "C": "blue", "D": "yellow"}, "correct": "C"},
+        {"question": "What color is grass?", "options": {"A": "blue", "B": "green", "C": "red", "D": "white"}, "correct": "B"},
+        {"question": "🍎 is ___", "options": {"A": "yellow", "B": "blue", "C": "red", "D": "green"}, "correct": "C"},
+        {"question": "The sun is ___", "options": {"A": "blue", "B": "yellow", "C": "green", "D": "black"}, "correct": "B"},
+        {"question": "Snow is ___", "options": {"A": "black", "B": "blue", "C": "white", "D": "red"}, "correct": "C"},
+        {"question": "🍌 banana is ___", "options": {"A": "red", "B": "yellow", "C": "blue", "D": "green"}, "correct": "B"},
+        {"question": "Night sky is ___", "options": {"A": "white", "B": "yellow", "C": "black", "D": "red"}, "correct": "C"},
+        {"question": "🍊 Orange is ___", "options": {"A": "orange", "B": "red", "C": "yellow", "D": "green"}, "correct": "A"}
+      ],
+      "family": [
+        {"question": "'Ona' in English is ___", "options": {"A": "father", "B": "mother", "C": "brother", "D": "sister"}, "correct": "B"},
+        {"question": "'Ota' in English is ___", "options": {"A": "mother", "B": "sister", "C": "father", "D": "brother"}, "correct": "C"},
+        {"question": "My mother's mother is my ___", "options": {"A": "sister", "B": "aunt", "C": "grandmother", "D": "mother"}, "correct": "C"},
+        {"question": "My father's son is my ___", "options": {"A": "sister", "B": "brother", "C": "uncle", "D": "cousin"}, "correct": "B"},
+        {"question": "'Grandparents' means ___", "options": {"A": "ota-ona", "B": "aka-uka", "C": "buvi-bobo", "D": "opa-singil"}, "correct": "C"},
+        {"question": "Sister means ___", "options": {"A": "aka", "B": "opa/singil", "C": "ona", "D": "ota"}, "correct": "B"},
+        {"question": "My father's brother is my ___", "options": {"A": "uncle", "B": "aunt", "C": "cousin", "D": "brother"}, "correct": "A"},
+        {"question": "Baby means ___", "options": {"A": "katta odam", "B": "chaqaloq", "C": "qari", "D": "bola"}, "correct": "B"}
+      ],
+      "fruits": [
+        {"question": "🍌 is a ___", "options": {"A": "apple", "B": "banana", "C": "orange", "D": "grape"}, "correct": "B"},
+        {"question": "Which fruit is yellow?", "options": {"A": "apple", "B": "grape", "C": "lemon", "D": "strawberry"}, "correct": "C"},
+        {"question": "'Olma' in English is ___", "options": {"A": "orange", "B": "apple", "C": "banana", "D": "grape"}, "correct": "B"},
+        {"question": "Which is NOT a fruit?", "options": {"A": "apple", "B": "banana", "C": "carrot", "D": "orange"}, "correct": "C"},
+        {"question": "'Tarvuz' in English is ___", "options": {"A": "melon", "B": "watermelon", "C": "lemon", "D": "orange"}, "correct": "B"},
+        {"question": "Grapes are usually ___", "options": {"A": "orange", "B": "purple or green", "C": "red only", "D": "blue"}, "correct": "B"},
+        {"question": "Strawberry is ___", "options": {"A": "yellow", "B": "blue", "C": "red", "D": "green"}, "correct": "C"},
+        {"question": "Which fruit has seeds outside?", "options": {"A": "apple", "B": "strawberry", "C": "orange", "D": "banana"}, "correct": "B"}
+      ],
+      "animals": [
+        {"question": "🐕 is a ___", "options": {"A": "cat", "B": "bird", "C": "dog", "D": "fish"}, "correct": "C"},
+        {"question": "Which animal can fly?", "options": {"A": "dog", "B": "cat", "C": "fish", "D": "bird"}, "correct": "D"},
+        {"question": "'Mushuk' in English is ___", "options": {"A": "dog", "B": "cat", "C": "bird", "D": "mouse"}, "correct": "B"},
+        {"question": "Which animal lives in water?", "options": {"A": "bird", "B": "dog", "C": "fish", "D": "cat"}, "correct": "C"},
+        {"question": "The king of animals is ___", "options": {"A": "elephant", "B": "tiger", "C": "lion", "D": "bear"}, "correct": "C"},
+        {"question": "Rabbit eats ___", "options": {"A": "meat", "B": "carrots", "C": "fish", "D": "bread"}, "correct": "B"},
+        {"question": "Which animal says 'moo'?", "options": {"A": "dog", "B": "cat", "C": "cow", "D": "bird"}, "correct": "C"},
+        {"question": "Horse is a ___ animal", "options": {"A": "small", "B": "big", "C": "tiny", "D": "flying"}, "correct": "B"}
+      ]
+    },
+    "5": {
+      "present_simple": [
+        {"question": "She ___ to school every day.", "options": {"A": "go", "B": "goes", "C": "going", "D": "gone"}, "correct": "B"},
+        {"question": "They ___ football on Sundays.", "options": {"A": "plays", "B": "playing", "C": "play", "D": "played"}, "correct": "C"},
+        {"question": "___ you like pizza?", "options": {"A": "Does", "B": "Do", "C": "Is", "D": "Are"}, "correct": "B"},
+        {"question": "He ___ not speak French.", "options": {"A": "do", "B": "does", "C": "is", "D": "are"}, "correct": "B"},
+        {"question": "My mother ___ delicious food.", "options": {"A": "cook", "B": "cooks", "C": "cooking", "D": "cooked"}, "correct": "B"},
+        {"question": "I ___ wake up early.", "options": {"A": "doesn't", "B": "don't", "C": "isn't", "D": "aren't"}, "correct": "B"},
+        {"question": "___ she live in Tashkent?", "options": {"A": "Do", "B": "Is", "C": "Does", "D": "Are"}, "correct": "C"},
+        {"question": "We ___ English at school.", "options": {"A": "studies", "B": "studying", "C": "study", "D": "studied"}, "correct": "C"},
+        {"question": "The sun ___ in the east.", "options": {"A": "rise", "B": "rises", "C": "rising", "D": "rose"}, "correct": "B"},
+        {"question": "Water ___ at 100 degrees.", "options": {"A": "boil", "B": "boils", "C": "boiling", "D": "boiled"}, "correct": "B"}
+      ],
+      "present_continuous": [
+        {"question": "I ___ a book now.", "options": {"A": "read", "B": "reads", "C": "am reading", "D": "reading"}, "correct": "C"},
+        {"question": "She ___ TV at the moment.", "options": {"A": "watches", "B": "is watching", "C": "watch", "D": "watched"}, "correct": "B"},
+        {"question": "They ___ football right now.", "options": {"A": "play", "B": "plays", "C": "playing", "D": "are playing"}, "correct": "D"},
+        {"question": "___ you studying?", "options": {"A": "Do", "B": "Does", "C": "Are", "D": "Is"}, "correct": "C"},
+        {"question": "He ___ sleeping now.", "options": {"A": "isn't", "B": "doesn't", "C": "don't", "D": "aren't"}, "correct": "A"},
+        {"question": "What ___ you doing?", "options": {"A": "do", "B": "does", "C": "is", "D": "are"}, "correct": "D"},
+        {"question": "The baby ___ crying.", "options": {"A": "are", "B": "is", "C": "am", "D": "be"}, "correct": "B"},
+        {"question": "We ___ not working today.", "options": {"A": "is", "B": "am", "C": "are", "D": "be"}, "correct": "C"},
+        {"question": "Look! It ___.", "options": {"A": "rains", "B": "rain", "C": "is raining", "D": "rained"}, "correct": "C"},
+        {"question": "Mom ___ dinner now.", "options": {"A": "cook", "B": "cooks", "C": "is cooking", "D": "cooked"}, "correct": "C"}
+      ],
+      "past_simple": [
+        {"question": "I ___ to school yesterday.", "options": {"A": "go", "B": "goes", "C": "went", "D": "going"}, "correct": "C"},
+        {"question": "She ___ a cake last week.", "options": {"A": "make", "B": "makes", "C": "making", "D": "made"}, "correct": "D"},
+        {"question": "___ you see the movie?", "options": {"A": "Do", "B": "Does", "C": "Did", "D": "Was"}, "correct": "C"},
+        {"question": "They ___ not come to the party.", "options": {"A": "do", "B": "did", "C": "was", "D": "were"}, "correct": "B"},
+        {"question": "He ___ his homework last night.", "options": {"A": "do", "B": "does", "C": "did", "D": "doing"}, "correct": "C"},
+        {"question": "We ___ a great time at the beach.", "options": {"A": "have", "B": "has", "C": "had", "D": "having"}, "correct": "C"},
+        {"question": "She ___ English two years ago.", "options": {"A": "study", "B": "studies", "C": "studied", "D": "studying"}, "correct": "C"},
+        {"question": "I ___ him at the store.", "options": {"A": "see", "B": "saw", "C": "seen", "D": "seeing"}, "correct": "B"},
+        {"question": "They ___ to London last summer.", "options": {"A": "travel", "B": "travels", "C": "traveled", "D": "traveling"}, "correct": "C"},
+        {"question": "He ___ very tired yesterday.", "options": {"A": "is", "B": "are", "C": "was", "D": "were"}, "correct": "C"}
+      ]
+    },
+    "8": {
+      "present_perfect": [
+        {"question": "I ___ never ___ to London.", "options": {"A": "have/been", "B": "has/been", "C": "have/be", "D": "has/be"}, "correct": "A"},
+        {"question": "She ___ here for 5 years.", "options": {"A": "live", "B": "lives", "C": "has lived", "D": "living"}, "correct": "C"},
+        {"question": "___ you ever eaten sushi?", "options": {"A": "Do", "B": "Did", "C": "Have", "D": "Has"}, "correct": "C"},
+        {"question": "He has worked here ___ 2018.", "options": {"A": "for", "B": "since", "C": "from", "D": "at"}, "correct": "B"},
+        {"question": "They have studied English ___ 10 years.", "options": {"A": "since", "B": "for", "C": "from", "D": "at"}, "correct": "B"},
+        {"question": "I have ___ finished my homework.", "options": {"A": "yet", "B": "already", "C": "never", "D": "ever"}, "correct": "B"},
+        {"question": "Have you done it ___?", "options": {"A": "already", "B": "just", "C": "yet", "D": "ever"}, "correct": "C"},
+        {"question": "She has ___ seen that movie.", "options": {"A": "yet", "B": "for", "C": "since", "D": "just"}, "correct": "D"},
+        {"question": "We ___ just arrived.", "options": {"A": "has", "B": "have", "C": "had", "D": "having"}, "correct": "B"},
+        {"question": "He ___ never tried pizza.", "options": {"A": "have", "B": "has", "C": "had", "D": "is"}, "correct": "B"}
+      ],
+      "conditionals": [
+        {"question": "If you heat water, it ___.", "options": {"A": "boils", "B": "will boil", "C": "would boil", "D": "boiled"}, "correct": "A"},
+        {"question": "If I study, I ___ the exam.", "options": {"A": "pass", "B": "will pass", "C": "would pass", "D": "passed"}, "correct": "B"},
+        {"question": "If I were rich, I ___ a car.", "options": {"A": "buy", "B": "will buy", "C": "would buy", "D": "bought"}, "correct": "C"},
+        {"question": "If it rains, we ___ inside.", "options": {"A": "stay", "B": "will stay", "C": "would stay", "D": "stayed"}, "correct": "B"},
+        {"question": "If I ___ you, I would study harder.", "options": {"A": "am", "B": "was", "C": "were", "D": "be"}, "correct": "C"},
+        {"question": "Water ___ if you heat it to 100°C.", "options": {"A": "boils", "B": "will boil", "C": "would boil", "D": "boiling"}, "correct": "A"},
+        {"question": "If she ___ time, she will help.", "options": {"A": "have", "B": "has", "C": "had", "D": "having"}, "correct": "B"},
+        {"question": "I would travel if I ___ money.", "options": {"A": "have", "B": "has", "C": "had", "D": "having"}, "correct": "C"},
+        {"question": "If you don't study, you ___ fail.", "options": {"A": "would", "B": "will", "C": "can", "D": "could"}, "correct": "B"},
+        {"question": "If I ___ a bird, I would fly.", "options": {"A": "am", "B": "was", "C": "were", "D": "be"}, "correct": "C"}
+      ],
+      "passive": [
+        {"question": "English ___ worldwide.", "options": {"A": "speaks", "B": "is spoken", "C": "spoke", "D": "speaking"}, "correct": "B"},
+        {"question": "The book ___ by Hemingway.", "options": {"A": "wrote", "B": "written", "C": "was written", "D": "write"}, "correct": "C"},
+        {"question": "The car ___ in Japan.", "options": {"A": "made", "B": "is made", "C": "make", "D": "making"}, "correct": "B"},
+        {"question": "The letter ___ yesterday.", "options": {"A": "sent", "B": "is sent", "C": "was sent", "D": "send"}, "correct": "C"},
+        {"question": "The project ___ next week.", "options": {"A": "will finish", "B": "will be finished", "C": "finished", "D": "finishing"}, "correct": "B"},
+        {"question": "Many houses ___ every year.", "options": {"A": "build", "B": "built", "C": "are built", "D": "building"}, "correct": "C"},
+        {"question": "The window ___ by the ball.", "options": {"A": "break", "B": "broke", "C": "was broken", "D": "breaking"}, "correct": "C"},
+        {"question": "Rice ___ in Asia.", "options": {"A": "grow", "B": "grows", "C": "is grown", "D": "grew"}, "correct": "C"},
+        {"question": "The homework ___ by students.", "options": {"A": "do", "B": "does", "C": "is done", "D": "did"}, "correct": "C"},
+        {"question": "Pizza ___ all over the world.", "options": {"A": "eat", "B": "eats", "C": "is eaten", "D": "ate"}, "correct": "C"}
+      ]
+    },
+    "10": {
+      "advanced_grammar": [
+        {"question": "The man ___ lives next door is a doctor.", "options": {"A": "which", "B": "who", "C": "whom", "D": "whose"}, "correct": "B"},
+        {"question": "The book ___ I bought is interesting.", "options": {"A": "who", "B": "whom", "C": "which", "D": "whose"}, "correct": "C"},
+        {"question": "The girl ___ father is a teacher is my friend.", "options": {"A": "who", "B": "which", "C": "whom", "D": "whose"}, "correct": "D"},
+        {"question": "This is the place ___ I was born.", "options": {"A": "which", "B": "who", "C": "where", "D": "when"}, "correct": "C"},
+        {"question": "I remember the day ___ we first met.", "options": {"A": "which", "B": "where", "C": "who", "D": "when"}, "correct": "D"},
+        {"question": "___ I known, I would have helped.", "options": {"A": "If", "B": "Have", "C": "Had", "D": "Would"}, "correct": "C"},
+        {"question": "Not only ___ smart, but also hardworking.", "options": {"A": "she is", "B": "is she", "C": "she was", "D": "was she"}, "correct": "B"},
+        {"question": "Seldom ___ such beauty.", "options": {"A": "I have seen", "B": "have I seen", "C": "I saw", "D": "saw I"}, "correct": "B"},
+        {"question": "The man ___ car was stolen is my neighbor.", "options": {"A": "who", "B": "which", "C": "whose", "D": "whom"}, "correct": "C"},
+        {"question": "Under no circumstances ___ leave early.", "options": {"A": "you should", "B": "should you", "C": "you would", "D": "would you"}, "correct": "B"}
+      ],
+      "reported_speech": [
+        {"question": "'I am happy' → He said he ___ happy.", "options": {"A": "is", "B": "was", "C": "were", "D": "be"}, "correct": "B"},
+        {"question": "'I will come' → She said she ___ come.", "options": {"A": "will", "B": "would", "C": "can", "D": "could"}, "correct": "B"},
+        {"question": "'I have finished' → He said he ___ finished.", "options": {"A": "has", "B": "have", "C": "had", "D": "having"}, "correct": "C"},
+        {"question": "'Where do you live?' → He asked where I ___.", "options": {"A": "live", "B": "lives", "C": "lived", "D": "living"}, "correct": "C"},
+        {"question": "'Open the door' → He told me ___ the door.", "options": {"A": "open", "B": "to open", "C": "opening", "D": "opened"}, "correct": "B"},
+        {"question": "'Don't run' → She told us ___ run.", "options": {"A": "don't", "B": "not", "C": "not to", "D": "to not"}, "correct": "C"},
+        {"question": "'now' changes to ___ in reported speech.", "options": {"A": "now", "B": "then", "C": "here", "D": "there"}, "correct": "B"},
+        {"question": "'today' changes to ___ in reported speech.", "options": {"A": "today", "B": "yesterday", "C": "that day", "D": "this day"}, "correct": "C"},
+        {"question": "'I can swim' → He said he ___ swim.", "options": {"A": "can", "B": "could", "C": "may", "D": "might"}, "correct": "B"},
+        {"question": "'Are you happy?' → She asked ___ I was happy.", "options": {"A": "that", "B": "what", "C": "if", "D": "which"}, "correct": "C"}
+      ]
+    }
+  },
+  "ielts": {
+    "reading": [
+      {"question": "In IELTS Reading, you have ___ minutes.", "options": {"A": "30", "B": "45", "C": "60", "D": "90"}, "correct": "C"},
+      {"question": "IELTS Reading has ___ sections.", "options": {"A": "2", "B": "3", "C": "4", "D": "5"}, "correct": "B"},
+      {"question": "'Skimming' is best for finding ___", "options": {"A": "specific details", "B": "main ideas", "C": "numbers", "D": "names"}, "correct": "B"},
+      {"question": "'Scanning' is best for finding ___", "options": {"A": "main ideas", "B": "author's opinion", "C": "specific information", "D": "conclusions"}, "correct": "C"},
+      {"question": "In True/False/Not Given, 'Not Given' means ___", "options": {"A": "false", "B": "not in text", "C": "true", "D": "guess"}, "correct": "B"},
+      {"question": "How many questions are in IELTS Reading?", "options": {"A": "30", "B": "35", "C": "40", "D": "45"}, "correct": "C"},
+      {"question": "You should spend about ___ minutes per passage.", "options": {"A": "10", "B": "15", "C": "20", "D": "30"}, "correct": "C"},
+      {"question": "IELTS Academic texts are from ___", "options": {"A": "newspapers", "B": "academic sources", "C": "fiction", "D": "social media"}, "correct": "B"}
+    ],
+    "listening": [
+      {"question": "IELTS Listening has ___ sections.", "options": {"A": "2", "B": "3", "C": "4", "D": "5"}, "correct": "C"},
+      {"question": "You hear each recording ___ time(s).", "options": {"A": "1", "B": "2", "C": "3", "D": "4"}, "correct": "A"},
+      {"question": "Total questions in IELTS Listening:", "options": {"A": "30", "B": "35", "C": "40", "D": "45"}, "correct": "C"},
+      {"question": "You get ___ minutes to transfer answers.", "options": {"A": "5", "B": "10", "C": "15", "D": "20"}, "correct": "B"},
+      {"question": "Spelling mistakes ___", "options": {"A": "don't matter", "B": "count as wrong", "C": "get half marks", "D": "are ignored"}, "correct": "B"},
+      {"question": "Section 1 is usually a ___", "options": {"A": "lecture", "B": "conversation", "C": "monologue", "D": "debate"}, "correct": "B"},
+      {"question": "Capital letters ___ required for answers.", "options": {"A": "are always", "B": "are never", "C": "are not", "D": "sometimes"}, "correct": "C"},
+      {"question": "You should read questions ___ listening.", "options": {"A": "after", "B": "during", "C": "before", "D": "never"}, "correct": "C"}
+    ],
+    "writing": [
+      {"question": "IELTS Writing Task 1 minimum words:", "options": {"A": "100", "B": "150", "C": "200", "D": "250"}, "correct": "B"},
+      {"question": "IELTS Writing Task 2 minimum words:", "options": {"A": "150", "B": "200", "C": "250", "D": "300"}, "correct": "C"},
+      {"question": "Task 2 is worth ___ of writing score.", "options": {"A": "1/3", "B": "1/2", "C": "2/3", "D": "3/4"}, "correct": "C"},
+      {"question": "Time for Task 1:", "options": {"A": "10 min", "B": "20 min", "C": "30 min", "D": "40 min"}, "correct": "B"},
+      {"question": "Time for Task 2:", "options": {"A": "20 min", "B": "30 min", "C": "40 min", "D": "50 min"}, "correct": "C"},
+      {"question": "Academic Task 1 is usually ___", "options": {"A": "letter", "B": "essay", "C": "graph/chart", "D": "story"}, "correct": "C"},
+      {"question": "General Task 1 is usually ___", "options": {"A": "letter", "B": "essay", "C": "graph", "D": "report"}, "correct": "A"},
+      {"question": "Essay should have ___ paragraphs.", "options": {"A": "2-3", "B": "4-5", "C": "6-7", "D": "8-9"}, "correct": "B"}
+    ]
+  },
+  "cefr": {
+    "a1": [
+      {"question": "Hello! My name ___ John.", "options": {"A": "am", "B": "is", "C": "are", "D": "be"}, "correct": "B"},
+      {"question": "I ___ from Uzbekistan.", "options": {"A": "is", "B": "are", "C": "am", "D": "be"}, "correct": "C"},
+      {"question": "___ is your name?", "options": {"A": "Who", "B": "What", "C": "Where", "D": "When"}, "correct": "B"},
+      {"question": "She ___ a student.", "options": {"A": "am", "B": "are", "C": "is", "D": "be"}, "correct": "C"},
+      {"question": "They ___ teachers.", "options": {"A": "is", "B": "am", "C": "are", "D": "be"}, "correct": "C"},
+      {"question": "I have ___ apple.", "options": {"A": "a", "B": "an", "C": "the", "D": "-"}, "correct": "B"},
+      {"question": "This is ___ book.", "options": {"A": "a", "B": "an", "C": "the", "D": "-"}, "correct": "A"},
+      {"question": "___ are you? - I'm fine.", "options": {"A": "What", "B": "Who", "C": "How", "D": "Where"}, "correct": "C"}
+    ],
+    "a2": [
+      {"question": "She ___ to school every day.", "options": {"A": "go", "B": "goes", "C": "going", "D": "gone"}, "correct": "B"},
+      {"question": "I ___ TV yesterday.", "options": {"A": "watch", "B": "watches", "C": "watched", "D": "watching"}, "correct": "C"},
+      {"question": "He can ___ English.", "options": {"A": "speaks", "B": "spoke", "C": "speaking", "D": "speak"}, "correct": "D"},
+      {"question": "There ___ a book on the table.", "options": {"A": "is", "B": "are", "C": "am", "D": "be"}, "correct": "A"},
+      {"question": "She is ___ than her sister.", "options": {"A": "tall", "B": "taller", "C": "tallest", "D": "more tall"}, "correct": "B"},
+      {"question": "I ___ like coffee.", "options": {"A": "doesn't", "B": "don't", "C": "isn't", "D": "aren't"}, "correct": "B"},
+      {"question": "___ you play tennis?", "options": {"A": "Does", "B": "Do", "C": "Is", "D": "Are"}, "correct": "B"},
+      {"question": "We are going ___ the cinema.", "options": {"A": "at", "B": "in", "C": "to", "D": "on"}, "correct": "C"}
+    ],
+    "b1": [
+      {"question": "I have ___ to Paris twice.", "options": {"A": "be", "B": "been", "C": "being", "D": "was"}, "correct": "B"},
+      {"question": "If it rains, I ___ stay home.", "options": {"A": "would", "B": "will", "C": "am", "D": "was"}, "correct": "B"},
+      {"question": "She ___ here since 2020.", "options": {"A": "live", "B": "lives", "C": "has lived", "D": "lived"}, "correct": "C"},
+      {"question": "The book ___ by many people.", "options": {"A": "read", "B": "reads", "C": "is read", "D": "reading"}, "correct": "C"},
+      {"question": "I used to ___ early.", "options": {"A": "waking", "B": "woke", "C": "wake", "D": "woken"}, "correct": "C"},
+      {"question": "He asked me ___ I was from.", "options": {"A": "what", "B": "where", "C": "who", "D": "which"}, "correct": "B"},
+      {"question": "I wish I ___ more money.", "options": {"A": "have", "B": "has", "C": "had", "D": "having"}, "correct": "C"},
+      {"question": "The man ___ car was stolen called police.", "options": {"A": "who", "B": "which", "C": "whose", "D": "whom"}, "correct": "C"}
+    ],
+    "b2": [
+      {"question": "If I had studied, I ___ passed.", "options": {"A": "will have", "B": "would have", "C": "would", "D": "will"}, "correct": "B"},
+      {"question": "He told me that he ___ the movie.", "options": {"A": "saw", "B": "see", "C": "had seen", "D": "has seen"}, "correct": "C"},
+      {"question": "By the time I arrived, the train ___.", "options": {"A": "left", "B": "has left", "C": "had left", "D": "leaves"}, "correct": "C"},
+      {"question": "She suggested ___ to the beach.", "options": {"A": "go", "B": "going", "C": "to go", "D": "went"}, "correct": "B"},
+      {"question": "I'd rather you ___ me the truth.", "options": {"A": "tell", "B": "told", "C": "telling", "D": "to tell"}, "correct": "B"},
+      {"question": "___ had I arrived than it started to rain.", "options": {"A": "Hardly", "B": "No sooner", "C": "Scarcely", "D": "Barely"}, "correct": "B"},
+      {"question": "Not only ___ she smart, but also hardworking.", "options": {"A": "is", "B": "was", "C": "does", "D": "did"}, "correct": "A"},
+      {"question": "It's high time we ___ home.", "options": {"A": "go", "B": "went", "C": "going", "D": "gone"}, "correct": "B"}
+    ]
+  },
+  "tasks": {
+    "grammar": [
+      {"question": "Choose the correct sentence:", "options": {"A": "He don't like coffee", "B": "He doesn't likes coffee", "C": "He doesn't like coffee", "D": "He not like coffee"}, "correct": "C"},
+      {"question": "Which is grammatically correct?", "options": {"A": "She is more taller", "B": "She is more tall", "C": "She is taller", "D": "She is most tall"}, "correct": "C"},
+      {"question": "The opposite of 'always' is:", "options": {"A": "sometimes", "B": "often", "C": "never", "D": "usually"}, "correct": "C"},
+      {"question": "'Beautiful' is a/an:", "options": {"A": "noun", "B": "verb", "C": "adjective", "D": "adverb"}, "correct": "C"},
+      {"question": "Past tense of 'go':", "options": {"A": "goed", "B": "gone", "C": "went", "D": "going"}, "correct": "C"},
+      {"question": "'Quickly' is a/an:", "options": {"A": "noun", "B": "verb", "C": "adjective", "D": "adverb"}, "correct": "D"},
+      {"question": "Plural of 'child':", "options": {"A": "childs", "B": "childes", "C": "children", "D": "childrens"}, "correct": "C"},
+      {"question": "'Has' is used with:", "options": {"A": "I, we, they", "B": "he, she, it", "C": "you", "D": "all"}, "correct": "B"}
+    ],
+    "vocabulary": [
+      {"question": "'Happy' means:", "options": {"A": "xafa", "B": "baxtli", "C": "charchagan", "D": "xavotir"}, "correct": "B"},
+      {"question": "Opposite of 'hot':", "options": {"A": "warm", "B": "cold", "C": "cool", "D": "mild"}, "correct": "B"},
+      {"question": "'Doctor' works in a:", "options": {"A": "school", "B": "hospital", "C": "restaurant", "D": "bank"}, "correct": "B"},
+      {"question": "'Breakfast' is eaten in the:", "options": {"A": "evening", "B": "afternoon", "C": "morning", "D": "night"}, "correct": "C"},
+      {"question": "Synonym of 'big':", "options": {"A": "small", "B": "tiny", "C": "large", "D": "little"}, "correct": "C"},
+      {"question": "'Kitchen' is used for:", "options": {"A": "sleeping", "B": "cooking", "C": "studying", "D": "bathing"}, "correct": "B"},
+      {"question": "'Angry' means:", "options": {"A": "xursand", "B": "g'azablangan", "C": "qo'rqoq", "D": "xafa"}, "correct": "B"},
+      {"question": "Opposite of 'start':", "options": {"A": "begin", "B": "finish", "C": "continue", "D": "restart"}, "correct": "B"}
+    ]
+  }
+}
